@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Effects of Soil Erosion</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-image:url(https://i.pinimg.com/736x/86/8c/63/868c63c6d7e60c2806449cdf1de7b41b.jpg),url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRl4GkFULGpF8AiZQMztoceWlstoDSEHqlLNyD6a-cfo3oQ46oGYHV-PwqNv3s916F-6E&usqp=CAU) ;
+        
+            background-blend-mode: lighten;
+        }
+        header {
+            background-color: #000000;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 36px;
+        }
+        h2 {
+            font-size: 24px;
+        }
+
+        sectio…
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Effects of Soil Erosion</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-image:url(https://i.pinimg.com/736x/86/8c/63/868c63c6d7e60c2806449cdf1de7b41bb.jpg),url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRl4GkFULGpF8AiZQMztoceWlstoDSEHqlLNyD6a-cfo3oQ46oGYHV-PwqNv3s916F-6E&usqp=CAU) ;
+        
+            background-blend-mode: lighten;
+        }
+        header {
+            background-color: #000000;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 36px;
+        }
+        h2, h4 {
+            font-size: 24px;
+        }
+        h3 {
+            font-size: 36px;
+        }
+        section {
+            margin: 20px;
+            padding: 20px;
+            background-image:url(https://th.bing.com/th/id/OIP.NtaPZzTBvZMK8Jdy9_IEYgAAAA?pid=ImgDet&w=179&h=345&c=7);
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Types of Soil Erosion</h1>
+    </header>
+
+    <section>
+        <h2>Rain Drop or Splash Erosion</h2>
+        <p>The erosion due to the impact of falling raindrops on the soil surface leading to the destruction of the crumb structure is known as raindrop or splash erosion.</p>
+        <img src="http://ecoursesonline.iasri.res.in/pluginfile.php/2362/mod_page/content/1/Splash%20erosion.jpg" alt="Image 1: Soil erosion caused by rain">
+        <div class="caption">Rain Drop or Splash Erosion</div>
+    </section>
+
+    <section>
+        <h2>Sheet Erosion</h2>
+        <p>It is the uniform removal of soil in thin layers from the land surface caused by the wind. Land areas with loose, shallow topsoil overlying compact soil are most prone to sheet erosion.</p>
+        <img src="https://vro.agriculture.vic.gov.au/dpi/vro/vroimages.nsf/Images/land-deg_sheet-rill/$File/sheet_rill.jpg" alt="Image 2: Soil Erosion Caused by Sheet Erosion">
+        <div class="caption">Sheet Erosion</div>
+    </section>
+
+    <section>
+        <h2>Rill Erosion</h2>
+        <p>Rill erosion is a form of water erosion in which the erosion takes place through numerous narrow and more or not so straight channels called streamlets or head cuts. Rill is the most common form of erosion, which you can also observe during heavy rain.</p>
+        <img src="https://static.prepp.in/public/image/52ce87bcaf47cc69bbaca3bb56179cd0.png?tr=w-,h-,c-force" alt="Image 2: Soil Erosion Caused by Rill Erosion">
+        <div class="caption">Rill Erosion</div>
+    </section>
+
+    <section>
+        <h2>Gully Erosion</h2>
+        <p>Gully erosion occurs due to the runoff of surface water, causing the removal of soil with drainage lines. Gullies when started once, will move by headward erosion or even by slumping of side walls unless and un-till proper steps will be taken in order to stabilize the disturbance.</p>
+        <img src="https://www.researchgate.net/profile/Martin-Potgieter/publication/309610614/figure/fig1/AS:423917316775936@1478081172092/Gully-erosion-USDA-Natural-Resource-Conservation.png" alt="Image 2: A stream with steep sides caused by soil erosion">
+        <div class="caption">A stream with steep sides caused by soil erosion</div>
+    </section>
+
+    <section>
+        <h2>Stream Bank Erosion</h2>
+        <p>Bank erosion is nothing but washing up away from banks of a stream or a river. It is different from the erosion of the bed of a watercourse, that is referred to as scouring. This type of erosion is also termed as Stream Bank Erosion.</p>
+        <img src="https://www.researchgate.net/profile/Ian-Jowett/publication/233291422/figure/fig5/AS:668844783841295@1536476431894/Streambank-erosion-Oakley-Creek-Auckland-caused-by-a-combination-of-high-flows-and-a.jpg" alt="Image 2: Soil Erosion Caused by Stream Bank Erosion">
+        <div class="caption">Stream Bank Erosion</div>
+    </section>
+
+    <header>
+        <h1>Causes of Soil Erosion</h1>
+    </header>
+
+    <section>
+        <h2>Due to Soil Texture</h2>
+        <p>If the texture is loose that is the soil contains more of small grains and of open structure erodes faster.</p>
+    </section>
+
+    <section>
+        <h2>Slope</h2>
+        <p>Soil present in a steeper slope more than the soil present at a plane level of the ground.</p>
+    </section>
+
+    <section>
+        <h2>Intensity or Amount of Rainfall</h2>
+        <p>More intense rain, more erosion. This can be a bit slow if there are more trees present in the land as the roots of the plants hold soil in a firm manner.</p>
+    </section>
+
+    <section>
+        <h2>Human Activities</h2>
+        <p>Agricultural practices, deforestation, roads and urbanization and global warming are a few major causes of soil erosion.</p>
+    </section>
+
+    <section>
+        <h2>Deforestation</h2>
+        <p>Mismanaged utilization of soil resources like the removal of forest cover causes soil erosion heavily. Due to increasing land demand, the human is more into deforesting lands. Tree roots act as a binder of the top layer of the soil.</p>
+    </section>
+
+    <header>
+        <h1>Effects of Soil Erosion</h1>
+    </header>
+   
+    <section>
+        <h2>Effects on Agriculture</h2>
+        <p>Soil erosion has a significant impact on agriculture. It reduces the fertile topsoil, making it harder for farmers to grow crops. This leads to lower yields and decreased food production.</p>
+    </section>
+    <section>
+        <h2>Environmental Consequences</h2>
+        <p>Soil erosion also harms the environment. It can lead to sedimentation of rivers and lakes, damaging aquatic ecosystems. Eroded soil often carries pollutants, pesticides, and fertilizers into water bodies, causing water pollution.</p>
+    </section>
+    <section>
+        <h2>Human Impact</h2>
+        <p>Soil erosion affects human life by reducing the availability of arable land and contributing to food scarcity. It also leads to increased flooding, as eroded soil can clog waterways, raising the risk of disasters.</p>
+    </section>
+
+    <header>
+        <h3>Prevention of Soil Erosion</h3>
+    </header>
+
+    <section>
+        <h4>vegetation</h4>
+        <p>It is a ground cover provided by plants, the roots of these plants will captivate the soil and inhibits soil erosion.</p>
+    </section>
+    <section>
+        <h4>Matting the Soil</h4>
+        <p>The installation of safeguarding covering like a blanket over the soil for the growth of small plants also helps in preventing soil erosion.</p>
+    </section>
+    <section>
+        <h4>Application of Mulches</h4>
+        <p>It is a layer of material applied to the soil surface, which betters the quality and holding capacity of the soil.</p>
+    </section>
+    <section>
+        <h4>Constructing WindBreakers</h4>
+        <p>It prevents soil erosion resulting due to speedy wind.</p>
+    </section>
+    <section>
+        <h4>Turning the slope area into a flat surface</h4>
+        <p>At the time of rain, the soil surface can run down with water, however, it can be prevented by flattening the surface.
+        </p>
+    </section>
+
+    <section id="groupMembers">
+        <h2>Group Members:</h2>
+        <ul>
+            <li>AMIT BHARDWAJ</li>
+            <li>NAVNEET KUMAR</li>
+            <li>ADITYA VERMA</li>
+        </ul>
+    </section>
+   
+</body>
+</html>
